@@ -1,0 +1,2 @@
+endpoint: https://heroku-test-prisma.herokuapp.com/prisma-heroku/dev
+datamodel: datamodel.graphql
